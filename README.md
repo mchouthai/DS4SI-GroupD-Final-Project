@@ -21,11 +21,11 @@ The goal is to (1) replicate key results from the original paper using the autho
 
 ## Repository Structure
 
-|----- reproducibility_code.R (Reproducible code of the original analyses)<br>
-|----- modeling_code.R (Extended modeling & additional analyses)<br>
-|----- data.csv (Input dataset(s) from authors)<br>
-|----- original_research.pdf (copy of the original research paper) 
-|----- README.md <br>
+|----- **reproducibility_code.R** (Reproducible code of the original analyses)<br>
+|----- **modeling_code.R** (Extended modeling & additional analyses)<br>
+|----- **data** (Input dataset(s) from authors)<br>
+|----- **original_research.pdf** (copy of the original research paper)<br>
+|----- **README.md** <br>
 
 ## Files
 
